@@ -81,18 +81,6 @@ print(response)
 
 ---
 
-## 📂 Project Structure
-
-```
-├── app.py                     # Main chatbot logic
-├── ingest.py                  # Script to process & store document vectors
-├── requirements.txt
-├── docs/                      # Folder for user-provided documents
-├── vectorstore/               # FAISS vector database
-```
-
----
-
 ## 🧠 Future Improvements
 
 - [ ] Add GUI with Streamlit or Gradio
